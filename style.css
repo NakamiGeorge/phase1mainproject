@@ -1,0 +1,12 @@
+.navbar {
+    height: 100px; 
+    background-color: #333; 
+}
+.navbar img {
+    height: 100%;
+}
+h1 {
+    color: red;
+    position: absolute;
+    right: 150px;
+}

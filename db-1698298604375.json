@@ -1,0 +1,49 @@
+{
+  "Radio-stations": [
+    {
+      "id": 1,
+      "name": "Radio-Citizen",
+      "Frequency": "106.7 FM",
+      "image": "https://cdn.onlineradiobox.com/img/l/2/125622.v3.png",
+      "Description": "This is Kenya’s biggest radio station owing not only to its footprint but the audience it commands. It targets the ‘common man’, who form a greater part of the country’s population.",
+      "Likes": "",
+      "Dislikes": ""
+    },
+    {
+      "id": 2,
+      "name": "Radio-Milele",
+      "Frequency": "104.3 FM",
+      "image": "https://cdn.onlineradiobox.com/img/l/9/7169.v12.png",
+      "Description": "Welcome to Milele FM,The home of African hits. The future inspires us. Milele, exists to inspire.",
+      "Likes": "",
+      "Dislikes": ""
+    },
+    {
+      "id": 3,
+      "name": "NRG-Radio",
+      "Frequency": "97.1 FM",
+      "image": "https://cdn.onlineradiobox.com/img/l/9/77349.v6.png",
+      "Description": "We are an Urban Contemporary Hit Radio Station broadcasting in Kenya’s Urban cities.We are a multi-platform entertainment experience that embraces digital technology.",
+      "Likes": "",
+      "Dislikes": ""
+    },
+    {
+      "id": 4,
+      "name": "Ghetto-Radio",
+      "Frequency": "89.5 FM",
+      "image": "https://cdn.onlineradiobox.com/img/l/5/7275.v6.png",
+      "Description": "This is an urban radio station located in Nairobi. Ghetto Radio Nairobi was established in 2007 and is currently a popular station among the youngsters. It broadcasts news, information, sports and lifestyle programmes.",
+      "Likes": "",
+      "Dislikes": ""
+    },
+    {
+      "id": 5,
+      "name": "classic-105",
+      "Frequency": "105.2 FM",
+      "image": "https://cdn.onlineradiobox.com/img/l/8/7188.v8.png",
+      "Description": "Classic 105 is a broadcast radio station in Nairobi, Kenya, providing News and Talk shows combined with Classic Rock, Pop and R&B Hits music.",
+      "Likes": "",
+      "Dislikes": ""
+    }
+  ]
+}
